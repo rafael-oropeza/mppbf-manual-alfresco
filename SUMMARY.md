@@ -10,7 +10,9 @@
         * [1.1.6. Instalación de Apache Tomcat](practice/skills.md)
     * [1.2 Instalar Alfresco 5.0 desde la Consola Unix	](practice/fd-dev-for.md)
         * [1.2.1 Configuración de servicios de Alfresco 5.0 desde la Consola Unix 16](practice/skills.md)
+        * [1.2.2	Configuración de sincronización de usuarios/roles desde LDAP/eDirectory de Alfresco 4.2.c desde la Consola Unix	17](practice/skills.md)
+* [2 Carga inicial de documentos al repositorio Alfresco](learning.md)
+* [3 Procedimientos para respaldos de seguridad (backup)](learning.md)
 
 
-* [Part II: Learning Front-End Dev](learning.md)
    
