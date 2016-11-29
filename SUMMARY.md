@@ -9,12 +9,8 @@
         * [1.1.5. Instalación de dependencias necesarias para Alfresco](practice/skills.md)
         * [1.1.6. Instalación de Apache Tomcat](practice/skills.md)
     * [1.2 Instalar Alfresco 5.0 desde la Consola Unix	](practice/fd-dev-for.md)
-	* [Front-End on a Team](practice/team.md)
-	<!--- * [Front-End Terms](template.md) -->
-    * [Generalist Myth](practice/myth.md)
-	* [Front-End interview questions](practice/interview-q.md)
-	* [Front-End Job Boards](practice/jobboards.md)
-	* [Front-End Salaries](practice/salaries.md)
-    * [How FDs Are Made](practice/making-fd.md)
+        * [1.2.1 Configuración de servicios de Alfresco 5.0 desde la Consola Unix 16](practice/skills.md)
+
+
 * [Part II: Learning Front-End Dev](learning.md)
    
