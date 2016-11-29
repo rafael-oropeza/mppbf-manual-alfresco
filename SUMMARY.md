@@ -7,6 +7,7 @@
         * [1.1.3. Creación de base de datos y usuario para Alfresco 5.0](practice/skills.md)
         * [1.1.4. Instalación de JDK 1.7.0_80](practice/skills.md)
         * [1.1.5. Instalación de dependencias necesarias para Alfresco](practice/skills.md)
+        * [1.1.6. Instalación de Apache Tomcat](practice/skills.md)
     * [Front-End Devs Develop For...](practice/fd-dev-for.md)
 	* [Front-End on a Team](practice/team.md)
 	<!--- * [Front-End Terms](template.md) -->
