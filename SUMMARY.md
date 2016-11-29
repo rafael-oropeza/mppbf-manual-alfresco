@@ -1,6 +1,6 @@
 # Summary
 
-* [1 Instalación y configuración de  en un servidor Debian GNU/Linux 7.8 (wheezy)](what-is-a-FD.md)
+* [1. Instalación y configuración de  en un servidor Debian GNU/Linux 7.8 (wheezy)](what-is-a-FD.md)
     * [1.1 Requisitos para la instalación en servidor Debian GNU/Linux 7.8 (wheezy)](practice.md)
         * [1.1.1. Aplicaciones y Librerías](practice/types-of-front-end-dev.md)
         * [1.1.2. Configuración de PostgreSQL](practice/tech-employed-by-fd.md)
