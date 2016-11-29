@@ -5,6 +5,8 @@
         * [1.1.1. Aplicaciones y Librerías](practice/types-of-front-end-dev.md)
         * [1.1.2. Configuración de PostgreSQL](practice/tech-employed-by-fd.md)
         * [1.1.3. Creación de base de datos y usuario para Alfresco 5.0](practice/skills.md)
+        * [1.1.4. Instalación de JDK 1.7.0_80 ](practice/skills.md)
+
     * [Front-End Devs Develop For...](practice/fd-dev-for.md)
 	* [Front-End on a Team](practice/team.md)
 	<!--- * [Front-End Terms](template.md) -->
