@@ -1,1 +1,1 @@
-# mppbf-manual-alfresco
+Manual de instalación de Alfresco
